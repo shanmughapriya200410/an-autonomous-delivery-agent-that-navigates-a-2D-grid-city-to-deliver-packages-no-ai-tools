@@ -38,8 +38,10 @@ cd an-autonomous-delivery-agent-that-navigates-a-2D-grid-city-to-deliver-package
 ```
 2.Make venv (optional)
 python -m venv venv
-source venv/bin/activate     # mac/linux
-venv\Scripts\activate        # win
+# mac / linux
+source venv/bin/activate
+# windows
+venv\Scripts\activate
 
 3.Install deps if you see requirements.txt:
  
