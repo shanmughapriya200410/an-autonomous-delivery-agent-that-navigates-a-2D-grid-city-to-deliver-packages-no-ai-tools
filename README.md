@@ -32,8 +32,9 @@ SET UP
 
 Installation  
 ```bash
-git clone https://github.com/your-username/autonomous-grid-delivery.git
-cd autonomous-grid-delivery
+git clone https://github.com/shanmughapriya200410/an-autonomous-delivery-agent-that-navigates-a-2D-grid-city-to-deliver-packages-no-ai-tools.git
+cd an-autonomous-delivery-agent-that-navigates-a-2D-grid-city-to-deliver-packages-no-ai-tools
+
 ```
 2.Make venv (optional)
 python -m venv venv
