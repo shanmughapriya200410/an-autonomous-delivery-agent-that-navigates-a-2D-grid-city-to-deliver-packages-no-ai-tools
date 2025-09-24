@@ -24,21 +24,30 @@ Features
 
 Prerequisites  
 - Python 3.8+  
-- pip  
+- pip
 
-Install required package:  
-```bash
-pip install requests
-```
+SET UP 
 
-(Optionally: `pip install -r requirements.txt`)  
-
+1.Clone repo
 
 Installation  
 ```bash
 git clone https://github.com/your-username/autonomous-grid-delivery.git
 cd autonomous-grid-delivery
 ```
+2.Make venv (optional)
+python -m venv venv
+source venv/bin/activate     # mac/linux
+venv\Scripts\activate        # win
+
+3.Install deps if you see requirements.txt:
+ 
+```bash
+pip install requests
+```
+
+(Optionally: `pip install -r requirements.txt`)  
+
 
 Usage  
 
